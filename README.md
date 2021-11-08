@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @cossoa01
 - 👀 I’m interested in Desktop APP Development
 - 🌱 I’m currently learning JavaScript, HTML e CSS
 - 💞️ I’m looking to collaborate on ...
